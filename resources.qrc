@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>font/Roboto/Roboto-Black.ttf</file>
+        <file>font/Roboto/Roboto-BlackItalic.ttf</file>
+        <file>font/Roboto/Roboto-Bold.ttf</file>
+        <file>font/Roboto/Roboto-BoldItalic.ttf</file>
+        <file>font/Roboto/Roboto-Italic.ttf</file>
+        <file>font/Roboto/Roboto-Light.ttf</file>
+        <file>font/Roboto/Roboto-LightItalic.ttf</file>
+        <file>font/Roboto/Roboto-Medium.ttf</file>
+        <file>font/Roboto/Roboto-MediumItalic.ttf</file>
+        <file>font/Roboto/Roboto-Regular.ttf</file>
+        <file>font/Roboto/Roboto-Thin.ttf</file>
+        <file>font/Roboto/Roboto-ThinItalic.ttf</file>
+        <file>font/Font Awesome 6 Brands-Regular-400.otf</file>
+        <file>font/Font Awesome 6 Free-Regular-400.otf</file>
+        <file>font/Font Awesome 6 Free-Solid-900.otf</file>
+    </qresource>
+</RCC>
